@@ -1,0 +1,5 @@
+[
+  { "todo": "hello", "status": false, "id": 1 },
+  { "todo": "smell", "status": false, "id": 3 },
+  { "todo": "smell", "status": false, "id": 3 }
+]
